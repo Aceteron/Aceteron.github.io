@@ -98,7 +98,7 @@ h1 {
 
 /* Mobile View */
 
-@media (max-width: 440px) {
+@media (max-width: 500px) {
 	
 	.slicknav_menu {
 		display: block;
